@@ -22,3 +22,6 @@ Jeffrey Dean and Sanjay Ghemawat, Google Inc.
 
 [What is MapReduce](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)<br>
 IBM
+
+[10 ways companies are using Hadoop (for more than ads)](http://gigaom.com/2012/06/05/10-ways-companies-are-using-hadoop-to-do-more-than-serve-ads/)<br>
+Gigaom
