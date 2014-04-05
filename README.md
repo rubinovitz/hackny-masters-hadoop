@@ -8,6 +8,14 @@ Installation
 * [Installing the Amazon Web Services Elastic MapReduce Ruby Client](http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-cli-install.html)
 
 
+
+Tutorials
+---
+[Wordcount Example](http://aws.amazon.com/articles/2273)<br>
+By Jai @ Amazon Webservices
+
+[Finding trending topics using Google Books n-grams data and Apache Hive on Elastic MapReduce](http://aws.amazon.com/articles/5249664154115844)<br>
+By Andrew Hitchcock
 References
 ---
 
