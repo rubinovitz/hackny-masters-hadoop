@@ -28,7 +28,7 @@ Ghemawat, Sanjay;Gobioff, Howard; and Leung, Shun-Tak. ACM SIGOPS Operating Syst
 [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)<br>
 Jeffrey Dean and Sanjay Ghemawat, Google Inc.
 
-[What is MapReduce](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)<br>
+[What is MapReduce?](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)<br>
 IBM
 
 [Powered By Hadoop](https://wiki.apache.org/hadoop/PoweredBy)<br>
