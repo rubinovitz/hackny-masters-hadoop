@@ -34,5 +34,5 @@ IBM
 [Powered By Hadoop](https://wiki.apache.org/hadoop/PoweredBy)<br>
 Apache
 
-[Intro to Hadoop and Mapreduce](https://www.udacity.com/course/ud617)
+[Intro to Hadoop and Mapreduce](https://www.udacity.com/course/ud617)<br>
 Udacity
