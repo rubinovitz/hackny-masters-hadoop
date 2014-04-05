@@ -17,7 +17,7 @@ Konstantin Shvachko, Hairong Kuang, Sanjay Radia, Robert Chansler Yahoo! Sunnyva
 [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf)<br>
 Ghemawat, Sanjay;Gobioff, Howard; and Leung, Shun-Tak. ACM SIGOPS Operating Systems Review, 37(5) . 29-43.
 
-[MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)<br>
+[MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)<br>
 Jeffrey Dean and Sanjay Ghemawat, Google Inc.
 
 [What is MapReduce](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)<br>
