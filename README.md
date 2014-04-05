@@ -12,10 +12,14 @@ Installation
 Tutorials
 ---
 [Wordcount Example](http://aws.amazon.com/articles/2273)<br>
-By Jai @ Amazon Webservices
+By Jai @ Amazon Web Services
 
 [Finding trending topics using Google Books n-grams data and Apache Hive on Elastic MapReduce](http://aws.amazon.com/articles/5249664154115844)<br>
 By Andrew Hitchcock
+
+[Parsing Logs with Apache Pig and Elastic MapReduce](http://aws.amazon.com/articles/2729)<br>
+By Ian @ Amazon Web Services
+
 References
 ---
 
