@@ -8,7 +8,7 @@ Installation
 * [Installing the Amazon Web Services Elastic MapReduce Ruby Client](http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-cli-install.html)
 
 
-Reference
+References
 ---
 
 [The Hadoop Distributed File System](http://storageconference.org/2010/Papers/MSST/Shvachko.pdf)<br>
@@ -19,3 +19,6 @@ Ghemawat, Sanjay;Gobioff, Howard; and Leung, Shun-Tak. ACM SIGOPS Operating Syst
 
 [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)<br>
 Jeffrey Dean and Sanjay Ghemawat, Google Inc.
+
+[What is MapReduce](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)
+IBM
