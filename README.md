@@ -1,7 +1,6 @@
-hackny-masters-hadoop
-=====================
-
-hackny masters 2014 hadoop talk and code samples
+hackNY Masters Spring 2014: Analyzing Data on Amazon Web Services Elastic MapReduce
+===
+Here is a short talk and a bunch of resources from a short talk I gave on Mapreduce, Hadoop, and  Amazon Web Services Elastic MapReduce at [hackNY Masters 2014](http://hacknymasters.com/) The talk uses examples from the first two tutorials.
 
 Installation
 ---
